@@ -18,18 +18,17 @@ FAQs covered:
 * Who is this guide meant for?
 * What do I need to follow along?
 * What's an SDK?
-* How can I set up an SDK?
 * What's an API private key?
-* What is the structure of API responses?
-* How is customer profile data structured?
+* What is the general structure of Klaviyo's API responses?
+* How is customer profile data structured specifically?
 * How are events and customer profiles related?
+* What is a Klaviyo ID?
 * How can I get customer profile IDs?
 * How can I get list or segment IDs?
 * What is pagination?
 * What's a simple example of pagination?
 * What does the links argument mean?
-* How does event filtering work?
-* How can I filter for events based on date?
+* How can I filter events based on date?
 
 ### Understanding client-side requests
 
@@ -43,15 +42,15 @@ FAQs covered:
 * Where can I find Klaviyo's SDKs?
 * Why is this guide in Python and not JavaScript?
 * Where can I find examples of custom integrations using JavaScript?
-* Why do some metrics appear twice in my account?
-* What's the difference between metrics and events
-* Why is my API response a 202?
-* Why is my API response a NoneType?
+* Why might some metrics appear twice in my account?
+* How are metrics and events related?
 * Do I need to provide a schema for new event types?
 * What happens if I upload events with the wrong data type?
-* Why is Klaviyo rejecting a correctly formatted phone number?
 * How can event data be used in Flows/Templates?
+* Why is my API response a 202?
+* Why is my API response a NoneType?
 * How can rate limit issues be mitigated?
+* Why may Klaviyo reject a correctly formatted phone number?
 
 ### These guides are best viewed on NBViewer
 

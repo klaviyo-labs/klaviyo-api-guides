@@ -10,10 +10,6 @@ These guides are meant both for new and experienced Klaviyo developers.
 
 Currently, there are two guides in this repository: **Understanding customer data** and **Understanding client-side requests**. You can see a preview below of the material covered in each guide. 
 
-### These guides are best viewed on NBViewer
-
-For the best user experience reading these guides, please view them on NBViewer rather than natively in Github. You can find [Klaviyo's API guides on NBViewer here](https://nbviewer.org/github/klaviyo-labs/klaviyo-api-guides-public).
-
 ### Understanding customer data
 
 Learn how Klaviyo data is structured into events, profiles, and metrics. The guide covers a range of use cases from using Klaviyo's APIs to pull customer profiles, to more advanced examples such as identifying customers who made their first purchase during Black Friday / Cyber Monday.
@@ -56,3 +52,7 @@ FAQs covered:
 * Why is Klaviyo rejecting a correctly formatted phone number?
 * How can event data be used in Flows/Templates?
 * How can rate limit issues be mitigated?
+
+### These guides are best viewed on NBViewer
+
+For the best user experience reading these guides, please view them on NBViewer rather than natively in Github. You can find [Klaviyo's API guides on NBViewer here](https://nbviewer.org/github/klaviyo-labs/klaviyo-api-guides-public).

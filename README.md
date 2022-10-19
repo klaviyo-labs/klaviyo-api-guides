@@ -10,7 +10,7 @@ These guides are meant both for new and experienced Klaviyo developers.
 
 Currently, there are two guides in this repository: **Understanding customer data** and **Understanding client-side requests**. You can see a preview below of the material covered in each guide. 
 
-### Understanding customer data
+### [Understanding customer data](https://nbviewer.org/github/klaviyo-labs/klaviyo-api-guides-public/blob/main/Understanding%20Customer%20Data%20Guide.ipynb)
 
 Learn how Klaviyo data is structured into events, profiles, and metrics. The guide covers a range of use cases from using Klaviyo's APIs to pull customer profiles, to more advanced examples such as identifying customers who made their first purchase during Black Friday / Cyber Monday.
 
@@ -30,7 +30,7 @@ FAQs covered:
 * What does the links argument mean?
 * How can I filter events based on date?
 
-### Understanding client-side requests
+### [Understanding client-side requests](https://nbviewer.org/github/klaviyo-labs/klaviyo-api-guides-public/blob/main/Understanding%20Client-Side%20API%20Calls%20Guide.ipynb)
 
 Learn how to set up a custom integration sending data into Klaviyo. The guide covers examples ranging from how to upload an event to Klaviyo to an example of how client-side requests can be used to generate custom customer review events that can be used to trigger flows.
 
